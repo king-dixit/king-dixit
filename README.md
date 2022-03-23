@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @king-dixit
-- 👀 I’m interested in finding patterns in life and getting a deeper meaning out of them
-- 🌱 I’m currently learning Machine Learning at NEU, Boston
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... dixit.ra@northeastern.edu
--
-Linear Regression from Scratch! No Scikit learn Libraries
-Implemented 1) Closed Form Solution
-            2) Gradient Descent  with and without Regularization( Ridge Regression)
-            3) Stochastic Gradient Descent with and without Regularization( Ridge Regression)
-      
+- 👋 Hi, I’m Rahul Dixit. I am a Master Of Science in Data Analytics Engineering at Northeastern University, Boston. 
+- I have worked as a Data Science Intern at Assurant for 8 Months in Boston, MA.
+- I have also worked in Wipro Limited as a Data science Intern for 8 months in Bengaluru, Karnataka, India.
+- 👀 I’m interested in finding patterns in data and getting a deeper meaning out of them
+- 📫 How to reach me dixit.ra@northeastern.edu or rahul.devilliers18@gmail.com
